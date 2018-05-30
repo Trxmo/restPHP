@@ -16,9 +16,9 @@ function visualizza($variabile){
 <body>
     <h2 align="center">Lista Questionari</h2>
 
-    <table border="1" align="center">
+    <table border="1" align="center" class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
         <tr>
-            <th>ID Questionario</th>
+            <th class="mdl-data-table__cell--non-numeric">ID Questionario</th>
             <th>ID Amministratore</th> 
             <th>Nome</th>
             <th>Punti</th>
