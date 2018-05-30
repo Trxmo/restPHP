@@ -17,3 +17,4 @@ You're all set.
 ##Description
 The .htaccess file is used to redirect every request made to the site to index.php [Read More](https://gist.github.com/RaVbaker/2254618)
 # restPHP
+# miko
